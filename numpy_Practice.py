@@ -23,3 +23,4 @@ print(np.random.rand(1))
 mat = np.arange(1,26).reshape(5,5)
 
 print(mat[:3,2].reshape(3,1))
+
